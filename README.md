@@ -22,6 +22,18 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 3. Power BI
 4. DAX Studio
 
+# Tech skills I learnt
+* Data Cleaning and ELT using Power Query Editor.
+* Data Modelling and creating the database schema.
+* Creating measures and calculated columns using DAX language.
+* Creating dynamic visuals and dynamic titles with different filters according to requirements.
+* Using Bookmarks to switch between different visuals.
+* Creating tooltips for visuals
+* Conditional Formatting.
+* Dax studio to analyze the performance of the dashboard.
+* Performance optimization techniques.
+* Deploying Reports to PowerBI service.
+
 # Business Terms I learnt
 * Revenue
 * Net invoice Sales
