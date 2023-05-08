@@ -34,7 +34,7 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 * Performance optimization techniques.
 * Deploying Reports to PowerBI service.
 
-# Business Terms I learnt
+# Business terms I learnt
 * Revenue
 * Net invoice Sales
 * Pre-invoice Deductions
