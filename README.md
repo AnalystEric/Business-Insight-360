@@ -2,6 +2,8 @@
 
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. They used to use Excel to implement data analytics to make data-driven decisions. However, the competitive market is ever-changing, and their business is overgrowing, so only relying on Excel is insufficient to let the company stand out. As a result, the senior executives decided to discard Excel and use SQL to import data and visualise data by using Power BI to generate business insights.
 
+### Feel Free to use the interactive [dashboard.](https://app.powerbi.com/view?r=eyJrIjoiYzNjMzc5NDYtMWRiZC00NzliLWFiZWEtZDY2ODJkZmRkNjNlIiwidCI6ImZmNzU3YjAyLTIxOGYtNGZlNi1hNjkyLTA2ZTRmMjFhNzUxYSJ9)
+
 ## Financial Dashboard
 ![Screenshot 2023-07-05 at 12 21 55](https://github.com/AnalystEric/Consumer_Electronics_Analysis/assets/127030648/65b24c11-ba34-4dca-8034-f57dc0c96d5b)
 
@@ -19,7 +21,6 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 
 
 
-### Feel Free to use the interactive [dashboard.](https://app.powerbi.com/view?r=eyJrIjoiYzNjMzc5NDYtMWRiZC00NzliLWFiZWEtZDY2ODJkZmRkNjNlIiwidCI6ImZmNzU3YjAyLTIxOGYtNGZlNi1hNjkyLTA2ZTRmMjFhNzUxYSJ9)
 
 ## There are six pages in this project, respectively:
 * Info: Download user manual and get to know the key information of this tool.
