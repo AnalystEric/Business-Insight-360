@@ -37,7 +37,7 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 2. MySQL
 3. Power BI
 4. DAX Studio
-
+5. Power Query
 # Tech skills
 * Data Cleaning and ELT using Power Query Editor.
 * Data Modelling and creating the database schema.
