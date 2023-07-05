@@ -1,6 +1,21 @@
-# Project Overview
+![Screenshot 2023-07-05 at 12 21 55](https://github.com/AnalystEric/Consumer_Electronics_Analysis/assets/127030648/fabbf408-4f08-4251-ac37-a4b5a5974856)# Project Overview
 
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. They used to use Excel to implement data analytics to make data-driven decisions. However, the competitive market is ever-changing, and their business is overgrowing, so only relying on Excel is insufficient to let the company stand out. As a result, the senior executives decided to discard Excel and use SQL to import data and visualise data by using Power BI to generate business insights.
+
+## Financial Dashboard
+![Screenshot 2023-07-05 at 12 21 55](https://github.com/AnalystEric/Consumer_Electronics_Analysis/assets/127030648/65b24c11-ba34-4dca-8034-f57dc0c96d5b)
+
+## Sales Dashboard
+![Screenshot 2023-07-05 at 12 22 08](https://github.com/AnalystEric/Consumer_Electronics_Analysis/assets/127030648/d2c405bf-8587-4aed-a61a-7852d2dd0898)
+
+## Marketing Dashboard
+![Screenshot 2023-07-05 at 12 22 16](https://github.com/AnalystEric/Consumer_Electronics_Analysis/assets/127030648/574cd60b-2647-4db9-8fb9-424c1541d62a)
+
+## Supply Chain Dashboard
+![Screenshot 2023-07-05 at 12 22 26](https://github.com/AnalystEric/Consumer_Electronics_Analysis/assets/127030648/b4861e31-0316-410d-9b5b-3c16d494506f)
+
+## Executive Dashboard
+![Screenshot 2023-07-05 at 12 22 35](https://github.com/AnalystEric/Consumer_Electronics_Analysis/assets/127030648/93500c8b-456b-4f66-a946-be61534e74e8)
 
 
 
@@ -22,7 +37,7 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 3. Power BI
 4. DAX Studio
 
-# Tech skills I learnt
+# Tech skills
 * Data Cleaning and ELT using Power Query Editor.
 * Data Modelling and creating the database schema.
 * Creating measures and calculated columns using DAX language.
@@ -34,7 +49,7 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 * Performance optimization techniques.
 * Deploying Reports to PowerBI service.
 
-# Business terms I learnt
+# Business terms
 * Revenue
 * Net invoice Sales
 * Pre-invoice Deductions
