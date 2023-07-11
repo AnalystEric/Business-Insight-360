@@ -10,6 +10,18 @@ aims to help a consumer electronics company improve its gross margins.
 4. DAX Studio
 5. Power Query
 
+# Tech skills
+* Data Cleaning and ELT using Power Query Editor
+* Data Modelling and creating the database schema
+* Creating measures and calculated columns using DAX language
+* Creating dynamic visuals and dynamic titles with different filters according to requirements
+* Using Bookmarks to switch between different visuals
+* Creating tooltips for visuals
+* Conditional Formatting
+* Dax Studio to analsze the performance of the dashboard
+* Performance optimization techniques.
+* Deploying Reports to the PowerBI service
+
 ### Feel Free to use the interactive [dashboard.](https://app.powerbi.com/view?r=eyJrIjoiYzNjMzc5NDYtMWRiZC00NzliLWFiZWEtZDY2ODJkZmRkNjNlIiwidCI6ImZmNzU3YjAyLTIxOGYtNGZlNi1hNjkyLTA2ZTRmMjFhNzUxYSJ9)
 
 ## Financial Dashboard
@@ -40,18 +52,6 @@ aims to help a consumer electronics company improve its gross margins.
 
 ### By clicking the icons on the left side, which can navigate to other pages.
 
-
-# Tech skills
-* Data Cleaning and ELT using Power Query Editor.
-* Data Modelling and creating the database schema.
-* Creating measures and calculated columns using DAX language.
-* Creating dynamic visuals and dynamic titles with different filters according to requirements.
-* Using Bookmarks to switch between different visuals.
-* Creating tooltips for visuals
-* Conditional Formatting.
-* Dax studio to analyze the performance of the dashboard.
-* Performance optimization techniques.
-* Deploying Reports to PowerBI service.
 
 # Business terms
 * Revenue
