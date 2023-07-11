@@ -1,6 +1,6 @@
 # Project Overview
 
-Created five dashboards using Power BI to showcase key performance indicators (KPIs) for the financial, marketing, sales, supply chain, and executive teams. This initiative 
+Created 5 dashboards using Power BI to showcase key performance indicators (KPIs) for the financial, marketing, sales, supply chain, and executive teams. This initiative 
 aims to help a consumer electronics company improve its gross margins.
 
 # Tech stacks used in the project
