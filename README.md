@@ -11,16 +11,16 @@ aims to help a consumer electronics company improve its gross margins.
 5. Power Query
 
 # Tech skills
-* Data Cleaning and ELT using Power Query Editor
-* Data Modelling and creating the database schema
-* Creating measures and calculated columns using DAX language
-* Creating dynamic visuals and dynamic titles with different filters according to requirements
-* Using Bookmarks to switch between different visuals
-* Creating tooltips for visuals
-* Conditional Formatting
-* Dax Studio to analsze the performance of the dashboard
-* Performance optimization techniques.
-* Deploying Reports to the PowerBI service
+* Performing data cleaning and Extract, Load, and Transform (ELT) operations using Power Query Editor.
+* Developing data models and creating the database schema.
+* Creating measures and calculated columns using the DAX language.
+* Designing dynamic visuals and dynamic titles with various filters based on requirements.
+* Utilising Bookmarks to switch between different visuals.
+* Implementing tooltips for visuals.
+* Applying conditional formatting.
+* Analyzing dashboard performance using Dax Studio.
+* Implementing performance optimization techniques.
+* Deploying reports to the Power BI service.
 
 ### Feel Free to use the interactive [dashboard.](https://app.powerbi.com/view?r=eyJrIjoiYzNjMzc5NDYtMWRiZC00NzliLWFiZWEtZDY2ODJkZmRkNjNlIiwidCI6ImZmNzU3YjAyLTIxOGYtNGZlNi1hNjkyLTA2ZTRmMjFhNzUxYSJ9)
 
