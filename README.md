@@ -1,4 +1,4 @@
-# <p align="center">Consumer_Electronics_Analysis</p>
+# <p align="center">Consumer Electronics Analysis</p>
 
 # Project Overview
 
