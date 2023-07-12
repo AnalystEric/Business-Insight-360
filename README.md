@@ -1,3 +1,5 @@
+# <p align="center">Consumer_Electronics_Analysis</p>
+
 # Project Overview
 
 Created 5 dashboards using Power BI to showcase key performance indicators (KPIs) for the financial, marketing, sales, supply chain, and executive teams.
